@@ -1,6 +1,0 @@
-$ git clone https://github.com/ie-ModelingAndDesign/2013-C.git
-$ cd 2013-C
-$ open .
-$ git stage ユースケース図
-$ git commit -m "ユースケース図"
-$ git push
