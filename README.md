@@ -3,4 +3,4 @@
 
 cat
 
-app name : cats eye
+app name : cat's eye
